@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ApiServiceGateway" />
+        <module name="AppService" />
+        <module name="ListService" />
+        <module name="LoanAutoAuditService" />
+        <module name="LoanCoreService" />
+        <module name="LoanCoreTask" />
+        <module name="LoanThirdService" />
+        <module name="ReportService" />
+        <module name="RuleCardEngine" />
+        <module name="ServiceCenter" />
+        <module name="UnifyPlatform" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ApiServiceGateway" target="1.8" />
+      <module name="AppService" target="1.8" />
+      <module name="ListService" target="1.8" />
+      <module name="LoanAutoAuditService" target="1.8" />
+      <module name="LoanCoreService" target="1.8" />
+      <module name="LoanCoreTask" target="1.8" />
+      <module name="LoanThirdService" target="1.8" />
+      <module name="ReportService" target="1.8" />
+      <module name="RuleCardEngine" target="1.8" />
+      <module name="ServiceCenter" target="1.8" />
+      <module name="UnifyPlatform" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

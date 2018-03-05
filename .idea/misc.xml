@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/3M/AppService/pom.xml" />
+        <option value="$PROJECT_DIR$/3M/ApiServiceGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/3M/ListService/pom.xml" />
+        <option value="$PROJECT_DIR$/3M/LoanAutoAuditService/pom.xml" />
+        <option value="$PROJECT_DIR$/3M/LoanCoreService/pom.xml" />
+        <option value="$PROJECT_DIR$/3M/LoanCoreTask/pom.xml" />
+        <option value="$PROJECT_DIR$/3M/LoanThirdService/pom.xml" />
+        <option value="$PROJECT_DIR$/3M/ReportService/pom.xml" />
+        <option value="$PROJECT_DIR$/3M/RuleCardEngine/pom.xml" />
+        <option value="$PROJECT_DIR$/3M/ServiceCenter/pom.xml" />
+        <option value="$PROJECT_DIR$/3M/UnifyPlatform/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/3M/ApiServiceGateway/ApiServiceGateway.iml" filepath="$PROJECT_DIR$/3M/ApiServiceGateway/ApiServiceGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3M/AppService/AppService.iml" filepath="$PROJECT_DIR$/3M/AppService/AppService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3M/ListService/ListService.iml" filepath="$PROJECT_DIR$/3M/ListService/ListService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3M/LoanAutoAuditService/LoanAutoAuditService.iml" filepath="$PROJECT_DIR$/3M/LoanAutoAuditService/LoanAutoAuditService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3M/LoanCoreService/LoanCoreService.iml" filepath="$PROJECT_DIR$/3M/LoanCoreService/LoanCoreService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3M/LoanCoreTask/LoanCoreTask.iml" filepath="$PROJECT_DIR$/3M/LoanCoreTask/LoanCoreTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3M/LoanThirdService/LoanThirdService.iml" filepath="$PROJECT_DIR$/3M/LoanThirdService/LoanThirdService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3M/ReportService/ReportService.iml" filepath="$PROJECT_DIR$/3M/ReportService/ReportService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3M/RuleCardEngine/RuleCardEngine.iml" filepath="$PROJECT_DIR$/3M/RuleCardEngine/RuleCardEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3M/ServiceCenter/ServiceCenter.iml" filepath="$PROJECT_DIR$/3M/ServiceCenter/ServiceCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3M/UnifyPlatform/UnifyPlatform.iml" filepath="$PROJECT_DIR$/3M/UnifyPlatform/UnifyPlatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sanMian.iml" filepath="$PROJECT_DIR$/.idea/sanMian.iml" />
+    </modules>
+  </component>
+</project>
